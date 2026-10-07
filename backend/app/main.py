@@ -51,6 +51,7 @@ app = FastAPI(
 origins = [
     "http://localhost:5173",
     "http://localhost:3000",
+    "https://rag-b7dr3k31n-poornimapalani16-6966s-projects.vercel.app",
 ]
 
 
